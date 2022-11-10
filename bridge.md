@@ -3,7 +3,6 @@
 ## Contents
 
 - [Bridge Conventions](#bridge-conventions)
-  - [Contents](#contents)
   - [Rules](#rules)
     - [Rule of 20](#rule-of-20)
   - [Openers](#openers)
@@ -51,7 +50,7 @@
   |K|3|
   |Q|2|
   |J|1|
-- The Rule of 20 is a calcultaion to see if your hand has opening strength.
+- The Rule of 20 is a calculation to see if your hand has opening strength.
 
 - Count HCP and then add the lengths of your 2 longest suits, if this is 20 or more, you can open.
 
@@ -64,14 +63,14 @@
   |1M |5 cards|
   |1m |3 cards|
 
-- If Both Majors have the same length open Spades, unless 17+ HCP where you can show a reverse by opening Hearts and then rebiding Spades
+- If Both Majors have the same length open Spades, unless 17+ HCP where you can show a reverse by opening Hearts and then rebidding Spades
 
 - if both minors have equal length open 1C
 
 ### Strong 1NT
 
 - 15-17 HCP
-- Overcalling 1NT shows 15-18 HCP with stopper in enemy suits
+- Over-calling 1NT shows 15-18 HCP with stopper in enemy suits
 - No more than 1 doubleton
 - No voids or singletons
 - 12-14 HCP open 1 of a suit then rebid 1NT
@@ -80,7 +79,7 @@
   |---|---|
   |Pass|0-7 HCP. No 5M or 6m|
   |2C|[Stayman](#stayman)|
-  |2D/2H|[Jacoby Transfer](#jacoby-transfers)|
+  |2D/2H|5+ Hearts or Spades [Jacoby Transfer](#jacoby-transfers)|
   |2S|[Minor suit Stayman](#minor-suit-stayman)|
   |2NT|8-9 HCP denies 4 of a Major unless 4-3-3-3|
   |3C|6+ Clubs, 7-8 HCP|
@@ -136,7 +135,7 @@
     |4NT|28-30 HCP balanced|
     |5NT|31-32 HCP balanced|
 
-- Openers response to Posivite suit:
+- Openers response to Positive suit:
     |Response|Meaning|
     |---|---|
     |2NT|23-24 HCP balanced|
@@ -148,7 +147,7 @@
   - opener bids 2NT: See [Strong 1NT](#strong-1nt)
   - opener bids a  suit:
     - Single Raise: 3+ cards slam interest
-    - Double Raise: 3+ cards signoff
+    - Double Raise: 3+ cards sign-off
 
 ### 2NT
 
@@ -168,54 +167,14 @@
 
 ### Stayman
 
-- After 1NT bid
-- 2C bid
-- Openers Rebids
+- After [Strong 1NT](#strong-1nt) bid
+- Bid 2C with 4 of a Major
+- Openers rebids:
     |Response|Meaning|
     |---|---|
     |2D|Denies 4 of a Major suit|
     |2H|4 Hearts Possible 4 Spades|
     |2S|4 Spades denies 4 Hearts|
-
-- Rebids After 2D
-    |Rebid|Meaning|
-    |---|---|
-    |2H|5 Hearts & 4 Spades|
-    |2S|5 Spades & 4 Hearts|
-    |2NT|invitational|
-    |3C|5+ Clubs game forcing|
-    |3D|5+ Diamonds game forcing|
-    |3H|5 Hearts & 4 Spades game forcing|
-    |3S|5 Spades & 4 Hearts game forcing|
-    |3NT|signoff|
-    |4H|6 Hearts & 4 Spades signoff|
-    |4S|6 Spades & 4 Hearts signoff|
-    |4NT|Quantitative, invites 6NT|
-
-- Rebids after 2H
-  |Rebid|Meaning|
-  |---|---|
-  |2S|5 Spades & 4 Hearts invitational|
-  |2NT|4 Spades & 3- Hearts invitational|
-  |3C|5+ Clubs game forcing|
-  |3D|5+ Diamonds game forcing|
-  |3H|4 Hearts invitational|
-  |3S|5 Spades & 4 Hearts game forcing|
-  |3NT|4 Spades & 3- Hearts; signoff or can correct to 4S|
-  |4H|signoff|
-  |4NT|quantitative invites 6NT|
-
-- Rebids after 2S
-  |Rebid|Meaning|
-  |---|---|
-  |2NT|invitational|
-  |3C|5+ Clubs game forcing|
-  |3D|5+ Diamonds game forcing|
-  |3H|4 Spades & 5 Hearts game forcing|
-  |3S|4 Spades invitational|
-  |3NT|Signoff with 4 Hearts|
-  |4S|signoff|
-  |4NT|quantitative invites 6NT|
 
 ### Jacoby Transfers
 
@@ -232,31 +191,31 @@
   |2M|must complete the transfer|
   |3M|4+ card support for the suit|
 
-- Responders Rebids after 2D/2H
+- Responders Rebids after 2D → 2H (Optional)
   |Rebid|Meaning|
   |---|---|
   |pass|0-7 HCP 5+ Hearts|
   |2S|5 Hearts & 5 Spades, 8-9 HCP invitational|
-  |2NT|5 Hearts balanced/semi balanced invitaional|
+  |2NT|5 Hearts balanced/semi balanced invitational|
   |3C|5+ Hearts & 4+ Clubs game forcing|
   |3D|5+ Hearts & 4+ Diamonds game forcing|
   |3H|6+ Hearts invitational|
   |3NT|balanced/semi balanced partner can pass or correct to 4H|
-  |4H|6+ Hearts signoff|
+  |4H|6+ Hearts sign-off|
   |4NT|Quantitative inviting slam or correct to 5H|
 
-- Responders Rebids after 2H/2S
+- Responders Rebids after 2H → 2S (Optional)
   |Rebid|Meaning|
   |---|---|
   |pass|0-7 HCP 5+ Spades|
-  |2NT|5 Spades balanced/semi balanced invitaional|
+  |2NT|5 Spades balanced/semi balanced invitational|
   |3C|5+ Spades & 4+ Clubs game forcing|
   |3D|5+ Spades & 4+ Diamonds game forcing|
   |3H|5+ Hearts & 5+ Spades game forcing with slam interest|
   |3S|6+ Spades invitational|
   |3NT|balanced/semi balanced partner can pass or correct to 4S|
   |4H|5+ Spades & 5+ Hearts game values|
-  |4S|6+ Spades signoff|
+  |4S|6+ Spades sign-off|
 
 ### Minor Suit Stayman
 
@@ -279,7 +238,7 @@
   |3D|5+ Diamonds opener expected to pass|
   |3H|Singleton/Void in H with slam interest Forcing|
   |3S|Singleton/Void in S with slam interest Forcing|
-  |3NT|Signoff|
+  |3NT|Sign-off|
   |4C/4D|Strong and Forcing with 5+ of the minor bid|
 - After Opener Rebids 3C:
   |Rebid|Meaning|
@@ -335,7 +294,7 @@
   |3H|5 Hearts|
   |3S|5 Spades|
   |3NT|no 4 or 5 card major|
-- stayman responses to 3D
+- Stayman responses to 3D
   |Response to 3D|Meaning|
   |---|---|
   |3H|shows 4 Spades|
@@ -345,7 +304,7 @@
 
 ### Bravos
 
-- Most repsonses show 4+ card support unless stated otherwise
+- Most responses show 4+ card support unless stated otherwise
   |Responders Bid|Meaning|
   |---|---|
   |2T|3 card support 6-9 HCP|
@@ -367,12 +326,12 @@
   |4C/4D|16+ HCP with void in bid suit|
   |4H|16+ HCP void in Opposite Major|
 
-- 2 Way Relay; Opener can Signoff in 3T or Enquire with 3O
+- 2 Way Relay; Opener can sign-off in 3T or Enquire with 3O
   |Response|Meaning|
   |---|---|
   |3NT|balanced|
   |4C/4D|Singleton or void in bid suit|
-  |4H|Singleton or void in Opposite Major|
+  |4H|Singleton or void in opposite Major|
 
 #### Jacoby 2NT
 
@@ -380,13 +339,13 @@
 - Openers Rebids
   |Rebid|Meaning|
   |---|---|
-  |3C/3D|Singleton/void in Suit bid rebiding this suit shows a Void|
+  |3C/3D|Singleton/void in Suit bid rebidding this suit shows a Void|
   |3T|16+ HCP with slam interest, asks a description of 2NT bidders hand|
-  |3O|Singleton/Void in Opposite Major rebiding shows a Void|
+  |3O|Singleton/Void in Opposite Major rebidding shows a Void|
   |3NT|14-15 HCP balanced|
   |4C/4D|5+ cards of bid suit|
-  |4H|if H are trumps its a signoff, if S are trumps shows 5+ hearts|
-  |4S|Spades signoff|
+  |4H|if H are trumps its a sign-off, if S are trumps shows 5+ hearts|
+  |4S|Spades sign-off|
   |4NT|[RKCB](#rkcb-1430)|
 - Priority of openers Rebid:
   - Show a 5 Card side suit
@@ -416,7 +375,7 @@
   |---|---|
   |4C|2 Key cards and a Feature|
   |4D|lacks the strength of 4C|
-- After 4C opener can enqurie about the Feature with a bid of 4D
+- After 4C opener can enquire about the Feature with a bid of 4D
   |Response|Meaning|
   |---|---|
   |4T|Q of Trumps|
@@ -454,13 +413,13 @@
   |5D|0 or 3 Key Cards|
   |5H|2 or 5 Key cards & no Q of Trumps|
   |5S|2 or 5 Key cards with Q of Trumps|
-- Void Showing Responses
+- Void Showing Responses (Optional)
   |Response|Meaning|
   |---|---|
-  |5NT|Even no. Key cards + a void|
-  |6C|Odd no. Key cards and Club void if clubs arent Trumps, otherwise a Void higher up|
-  |6D|Odd no. Key cards and Diamond void if hearts or spades are Trumps, otherwise a void higher up|
-  |6H|Odd no. Key cards and Heart void if Spades are Trumps and vice versa|
+  |5NT|Even number of Key Cards and a Void|
+  |6C|Odd number of Key Cards and Club Void if Clubs aren't Trumps, otherwise a Void higher up|
+  |6D|Odd number of Key Cards and Diamond Void if Hearts or Spades are Trumps, otherwise a Void higher up|
+  |6H|Odd number of Key Cards and Heart Void if Spades are Trumps, Spade Void if Hearts are Trumps|
 - After the usual response, a bid of 5NT is asking for Kings
   |Response|Meaning|
   |---|---|
@@ -468,8 +427,8 @@
   |6D|1 King|
   |6H|2 Kings|
   |6S|3 Kings|
-- Asking for the Trump Q:
-- To enqurie the Blackwood bidder will bid the cheapest non trump suit
+- Asking for the Trump Queen:
+- To enquire, the Blackwood bidder will bid the cheapest non trump suit
   |Response|Meaning|
   |---|---|
   |Trumps suit| No Trump Q|
@@ -493,7 +452,7 @@
   |2H|Hearts & Spades (5-4 distribution)|
   |2S|Spades (Normally 6+ Cards), weaker than double followed by 2S rebid|
 - After a Double 2C relay
-  |cuebidder's rebid|Meaning|
+  |cue-bidder's rebid|Meaning|
   |---|---|
   |pass|6+ Clubs|
   |2D|6+ Diamonds|
@@ -505,15 +464,14 @@
 
 ### Penalty Doubles
 
-- As its name implies, this is just used when you dont beleive your opps are going to make their contract
-- Or Just for the banter
+- As its name implies, this is just used when you don't believe your opponents are going to make their contract
   
 ### Takeout Doubles
 
 - Artificial Double at the 1 level
 - Shows either
-- 11+ HCP and 3+ card support for each unbid suit
-- 16+ HCP and 1 suit
+  - 11+ HCP and 3+ card support for each unbid suit
+  - 16+ HCP and 1 suit
   
   |Partners Response|Meaning|
   |---|---|
@@ -523,11 +481,11 @@
   |Double Jump Suit|6+ cards 6-8 HCP|
   |Cheapest NT|7-10 HCP, stopper in enemy suit, no 4 M|
   |Jump NT|11-12 HCP, and see above|
-  |3NT|13-15 HCP Balanced, Stopper in enemy suit, signoff|
+  |3NT|13-15 HCP Balanced, Stopper in enemy suit, sign-off|
   |Cue-Bid|10+ HCP Unbalanced|
 
 - Openers Rebids after a minimal response
-- these should only be used with a very strong hand
+- These should only be used with a very strong hand
   |Rebid|Meaning|
   |---|---|
   |1NT|18-20 HCP|
@@ -539,38 +497,21 @@
 
 ### Responsive Doubles
 
-- Used when:
-  - LHO opens
+- A double used too show shape when:
+  - Left-hand opponent opens
   - Partner Takeout Doubles
-  - RHO raises
+  - Right-hand opponent raises
   
   |Double|Meaning|
   |---|---|
-  |Opps Bid Minor| 4-4 in Majors|
-  |Opps bid Major| 4-4 in Minors|
+  |Opponents bid Minor| 4-4 in Majors|
+  |Opponents bid Major| 4-4 in Minors|
 
-### Negative Doubles
-
-- Used When:
-  - Partner Opens
-  - Opp Overcalls
-- 6+ HCP
-- if you have a 5 card Major, need 10- HCP
-- 4+ Cards in both of the unbid Suits
-- If partner oppens a major, it denies support
-- Opener with 4+ card support just bid one of partners suits
-- Otherwise bid as follows:
-  - Rebid a 5 card suit
-  - Bid NT with stopper in enemy suit
-  - Bid a new suit
-  - Cue-bid to show strength and no stopper
-  - Bid partners suit with 3 cards: last resort
-  
 ## 1NT Escapes
 
 ### Exit Transfers
 
-- used after opps double 1NT
+- used after opponents double 1NT
   |Bid|Meaning|
   |---|---|
   |pass|requires partner to make an artificial Redouble; Shows a 4-4 hand|
@@ -590,17 +531,18 @@
 
 ## Standard Leads
 
+*AFTER* deciding on suit to lead, match suit structure in table.
 H is any honour
 
 |Trumps|No Trumps|Comment|
 |-|-|-|
-|**A**xxx|Axx**x**|Never underlead an Ace in trump contracts|
+|**A**xxx|Axx**x**|**Never** under-lead an Ace in trump contracts|
 |Hxx**x**|Hxx**x**|4th Highest with an honour|
 |Hx**x**|Hx**x**||
 |x**x**xx|x**x**xx|2nd with no honour|
-|x**x**x|x**x**x|MUD|
+|x**x**x|x**x**x|MUD (Middle, Up, Down)|
 |T**x**x|T**x**x||
-|**H**x|**H**x|Top of doubleton, exlcuding Kx and Qx|
+|**H**x|**H**x|Top of doubleton, excluding Kx and Qx|
 |**x**x|**x**x||
 |A**K**|**A**K|lower in suit contract showing the higher after shows you are voided|
 |K**Q**|**K**Q||
@@ -618,12 +560,3 @@ H is any honour
 |**A**JTx..|A**J**Tx..|Top of an internal honour sequence in No trumps, else the ace|
 |K**J**xx..|K**J**xx..|Top of an internal honour sequence|
 |Q**T**xx..|Q**T**xx..||
-
-Optional leads
-
-|Trumps|No Trumps|Comment|
-|-|-|-|
-||A**K**JTx..|Asks partner to play the Queen if they have it, otherwise asks for count|
-|AJ**T**x..|AJ**T**x..|If playing strong 10's|
-|KJ**T**x..|KJ**T**x..||
-|AKJ**T**x..|AKJ**T**x..||
