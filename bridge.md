@@ -2,56 +2,71 @@
 
 ## Contents
 
-- [Bridge Conventions](#bridge-conventions)
-  - [Rules](#rules)
-    - [Rule of 20](#rule-of-20)
-  - [Openers](#openers)
-    - [Suits](#suits)
-    - [Strong 1NT](#strong-1nt)
-    - [Weak 2s](#weak-2s)
-    - [Weak 3s](#weak-3s)
-    - [2NT](#2nt)
-    - [Strong 2C](#strong-2c)
-  - [Constructive Bidding](#constructive-bidding)
-    - [Natural rebids](#natural-rebids)
-    - [Bidding Controls](#bidding-controls)
-    - [Stayman](#stayman)
-    - [Jacoby Transfers](#jacoby-transfers)
-    - [Minor Suit Stayman](#minor-suit-stayman)
-    - [Texas Transfers](#texas-transfers)
-    - [Puppet Stayman](#puppet-stayman)
-    - [Bravos](#bravos)
-      - [Jacoby 2NT](#jacoby-2nt)
-      - [Ambiguous Splinters](#ambiguous-splinters)
-      - [Key Card Swiss](#key-card-swiss)
-  - [Slam Bidding](#slam-bidding)
-    - [Gerber](#gerber)
-    - [RKCB 1430](#rkcb-1430)
-  - [Defensive Bids](#defensive-bids)
-    - [After Opposing 1NT](#after-opposing-1nt)
-      - [DONT](#dont)
-  - [Doubles](#doubles)
-    - [Penalty Doubles](#penalty-doubles)
-    - [Takeout Doubles](#takeout-doubles)
-    - [Responsive Doubles](#responsive-doubles)
-    - [Negative Doubles](#negative-doubles)
-  - [1NT Escapes](#1nt-escapes)
-    - [Exit Transfers](#exit-transfers)
-  - [Standard Leads](#standard-leads)
+<table>
+<tr><td style="vertical-align: top;border: none">
+
+- [Rules](#rules)
+  - [Rule of 12](#rule-of-12)
+  - [Rule of 20](#rule-of-20)
+- [Openers](#openers)
+  - [Suits](#suits)
+  - [Strong 1NT](#strong-1nt)
+  - [Weak 2s](#weak-2s)
+  - [Weak 3s](#weak-3s)
+  - [2NT](#2nt)
+  - [Strong 2C](#strong-2c)
+- [Constructive Bidding](#constructive-bidding)
+  - [Natural rebids](#natural-rebids)
+  - [Bidding Controls](#bidding-controls)
+  - [Stayman](#stayman)
+  - [Jacoby Transfers](#jacoby-transfers)
+  - [Minor Suit Stayman](#minor-suit-stayman)
+  - [Texas Transfers](#texas-transfers)
+  - [Bravos](#bravos)
+    - [Jacoby 2NT](#jacoby-2nt)
+    - [Ambiguous Splinters](#ambiguous-splinters)
+    - [Key Card Swiss](#key-card-swiss)
+</td>
+<td style="vertical-align: top;border: none">
+
+- [Slam Bidding](#slam-bidding)
+  - [RKCB 1430](#rkcb-1430)
+  - [Gerber](#gerber)
+- [Defensive Bids](#defensive-bids)
+  - [After Opposing 1NT](#after-opposing-1nt)
+    - [DONT](#dont)
+- [Doubles](#doubles)
+  - [Penalty Doubles](#penalty-doubles)
+  - [Takeout Doubles](#takeout-doubles)
+  - [Responsive Doubles](#responsive-doubles)
+  - [Negative Doubles](#negative-doubles)
+- [1NT Escapes](#1nt-escapes)
+  - [Exit Transfers](#exit-transfers)
+- [Standard Leads](#standard-leads)
+</td>
+</tr>
+</table>
+
+<div style="page-break-after: always;"></div>
 
 ## Rules
 
-### Rule of 20
-
-- HCP are the main method of determining the value of a hand
+- High Card Points (HCP) are the main method of determining the value of a hand
   |Card|Value|
   |---|---|
   |A|4|
   |K|3|
   |Q|2|
   |J|1|
-- The Rule of 20 is a calculation to see if your hand has opening strength.
 
+### Rule of 12
+
+- A common rule for determining whether to open with a hand is to count the HCPs and open if you have 12 or more.
+
+### Rule of 20
+
+- An alternative, which also takes into account the shape of a hand, is the Rule of 20.
+- The Rule of 20 is a calculation to see if your hand has opening strength.
 - Count HCP and then add the lengths of your 2 longest suits, if this is 20 or more, you can open.
 
 ## Openers
@@ -88,6 +103,8 @@
   |4C|[Gerber](#gerber)|
   |4D/4H|[Texas Transfer](#texas-transfers)|
   |4NT|17-18 HCP invites 6NT|
+
+<div style="page-break-after: always;"></div>
 
 ### Weak 2's
 
@@ -153,8 +170,7 @@
 
 - 20-21 HCP Balanced
 - can hold a 5 card Major
-- see [Strong 1NT](#strong-1nt) responses
-- 3C is replaced by [Puppet Stayman](#puppet-stayman)
+- see [Strong 1NT](#strong-1nt) responses, just one level higher
 - for 18-19 HCP open 1 of a suit then rebid 2NT
 
 ## Constructive Bidding
@@ -191,6 +207,8 @@
   |2M|must complete the transfer|
   |3M|4+ card support for the suit|
 
+<div style="page-break-after: always;"></div>
+
 - Responders Rebids after 2D → 2H (Optional)
   |Rebid|Meaning|
   |---|---|
@@ -217,6 +235,8 @@
   |4H|5+ Spades & 5+ Hearts game values|
   |4S|6+ Spades sign-off|
 
+<div style="page-break-after: always;"></div>
+
 ### Minor Suit Stayman
 
 - After 1NT bid 2S if no 4 card Major but want to ask for a 4 card minor
@@ -229,6 +249,7 @@
   |3S|Spade Stopper, Invites 3NT with a heart Stopper, may have a 4 card minor|
   |3NT|Denies 4 card minor, shows max strength and stopper in both Majors|
   |4C/4D|4+ of bid suit with max strength|
+
 - Responders Rebids:
 - After opener bids 2NT:
   |Rebid|Meaning|
@@ -240,6 +261,9 @@
   |3S|Singleton/Void in S with slam interest Forcing|
   |3NT|Sign-off|
   |4C/4D|Strong and Forcing with 5+ of the minor bid|
+
+<div style="page-break-after: always;"></div>
+
 - After Opener Rebids 3C:
   |Rebid|Meaning|
   |---|---|
@@ -250,6 +274,7 @@
   |3NT|Natural Balanced Hand|
   |4C|Invitational to 5C, shows Unbalanced hand due to bypass of 3NT|
   |4D|Interest in Diamonds Slam|
+
 - After Opener Rebids 3D
   |Rebid|Meaning|
   |---|---|
@@ -259,6 +284,7 @@
   |3NT|Natural Balanced Hand|
   |4C|Interest in Clubs Slam|
   |4D|Invitational to 5D, shows Unbalanced hand due to bypass of 3NT|
+
 - After Opener rebids 3H
   |Rebid|Meaning|
   |---|---|
@@ -267,6 +293,7 @@
   |4C|5+ Clubs Natural and forcing|
   |4D|5+ Diamonds Natural and forcing|
   |4H|3 Hearts, unbalanced proposes playing the 4-3 Major fit|
+
 - After Opener rebids 3S
   |Rebid|Meaning|
   |---|---|
@@ -285,22 +312,7 @@
   |4H|6+ Spades & 10-15 HCP|
 - Opener must Complete Transfer in the same way as [Jacoby Transfers](#jacoby-transfers)
 
-### Puppet Stayman
-
-- After 2NT responder Bids 3C to show either a 4 or 5 card major and 3+ HCP
-  |Response to 3C|Meaning|
-  |---|---|
-  |3D|no 5 card major but at least one 4M|
-  |3H|5 Hearts|
-  |3S|5 Spades|
-  |3NT|no 4 or 5 card major|
-- Stayman responses to 3D
-  |Response to 3D|Meaning|
-  |---|---|
-  |3H|shows 4 Spades|
-  |3S|shows 4 Hearts|
-  |4C|shows 4 in both majors with slam interest|
-  |4D|shows 4 in both majors with no slam interest|
+<div style="page-break-after: always;"></div>
 
 ### Bravos
 
@@ -325,6 +337,8 @@
   |3O|12-15 HCP and void; Opener can rebid 3NT to ask for void|
   |4C/4D|16+ HCP with void in bid suit|
   |4H|16+ HCP void in Opposite Major|
+
+<div style="page-break-after: always;"></div>
 
 - 2 Way Relay; Opener can sign-off in 3T or Enquire with 3O
   |Response|Meaning|
@@ -354,6 +368,8 @@
   - Jumping to 4T
   - Bidding 3T
 - After any 3 level rebid responder can rebid to show first round control - Ace/Void
+
+<div style="page-break-after: always;"></div>
   
 #### Ambiguous Splinters
 
@@ -382,7 +398,44 @@
   |4O|5+ Trumps|
   |4NT|3rd Key card|
 
+<div style="page-break-after: always;"></div>
+
 ## Slam Bidding
+
+### RKCB 1430
+
+- The most well known slam asking bid
+- Bid 4NT to ask partner for key cards; these are the Aces and the King of Trumps
+  |Response|Meaning|
+  |---|---|
+  |5C|1 or 4 Key Cards|
+  |5D|0 or 3 Key Cards|
+  |5H|2 or 5 Key cards & no Q of Trumps|
+  |5S|2 or 5 Key cards with Q of Trumps|
+
+- Void Showing Responses (Optional)
+  |Response|Meaning|
+  |---|---|
+  |5NT|Even number of Key Cards and a Void|
+  |6C|Odd number of Key Cards and Club Void if Clubs aren't Trumps, otherwise a Void higher up|
+  |6D|Odd number of Key Cards and Diamond Void if Hearts or Spades are Trumps, otherwise a Void higher up|
+  |6H|Odd number of Key Cards and Heart Void if Spades are Trumps, Spade Void if Hearts are Trumps|
+
+- After the usual response, a bid of 5NT is asking for Kings
+  |Response|Meaning|
+  |---|---|
+  |6C|0 Kings|
+  |6D|1 King|
+  |6H|2 Kings|
+  |6S|3 Kings|
+
+- Asking for the Trump Queen:
+- To enquire, the Blackwood bidder will bid the cheapest non trump suit
+  |Response|Meaning|
+  |---|---|
+  |Trumps suit| No Trump Q|
+  |5NT|Trump Q without side Kings|
+  |Non Trump Suit|Trump Q with King in that Suit|
 
 ### Gerber
 
@@ -395,6 +448,7 @@
   |4H|1 Aces|
   |4S|2 Aces|
   |4NT|3 Aces|
+
 - Gerber bidder may respond 5C to ask for kings
   |Response to 5C|Meaning|
   |---|---|
@@ -403,37 +457,7 @@
   |5S|2 Kings|
   |5NT|3 Kings|
 
-### RKCB 1430
-
-- The most well known slam asking bid
-- Bid 4NT to ask partner for key cards; these are the Aces and the King of Trumps
-  |Response|Meaning|
-  |---|---|
-  |5C|1 or 4 Key Cards|
-  |5D|0 or 3 Key Cards|
-  |5H|2 or 5 Key cards & no Q of Trumps|
-  |5S|2 or 5 Key cards with Q of Trumps|
-- Void Showing Responses (Optional)
-  |Response|Meaning|
-  |---|---|
-  |5NT|Even number of Key Cards and a Void|
-  |6C|Odd number of Key Cards and Club Void if Clubs aren't Trumps, otherwise a Void higher up|
-  |6D|Odd number of Key Cards and Diamond Void if Hearts or Spades are Trumps, otherwise a Void higher up|
-  |6H|Odd number of Key Cards and Heart Void if Spades are Trumps, Spade Void if Hearts are Trumps|
-- After the usual response, a bid of 5NT is asking for Kings
-  |Response|Meaning|
-  |---|---|
-  |6C|0 Kings|
-  |6D|1 King|
-  |6H|2 Kings|
-  |6S|3 Kings|
-- Asking for the Trump Queen:
-- To enquire, the Blackwood bidder will bid the cheapest non trump suit
-  |Response|Meaning|
-  |---|---|
-  |Trumps suit| No Trump Q|
-  |5NT|Trump Q without side Kings|
-  |Non Trump Suit|Trump Q with King in that Suit|
+<div style="page-break-after: always;"></div>
 
 ## Defensive Bids
 
@@ -459,7 +483,8 @@
   |2H|6+ Hearts|
   |2S|6+ Spades|
 
-  
+<div style="page-break-after: always;"></div>
+
 ## Doubles
 
 ### Penalty Doubles
@@ -507,6 +532,8 @@
   |Opponents bid Minor| 4-4 in Majors|
   |Opponents bid Major| 4-4 in Minors|
 
+<div style="page-break-after: always;"></div>
+
 ## 1NT Escapes
 
 ### Exit Transfers
@@ -519,6 +546,7 @@
   |2C|5+ Diamonds|
   |2D|5+ Hearts|
   |2H|5+ Spades|
+  
 - After The Artificial Redouble
   |Bid|Meaning|
   |---|---|
@@ -528,6 +556,8 @@
   |2H|4 Hearts & 4 Spades|
 
 - For all of these bids, Partner can pass or correct
+
+<div style="page-break-after: always;"></div>
 
 ## Standard Leads
 
@@ -554,6 +584,11 @@ H is any honour
 |**A**KJx..|**A**KJx..|Top of a 2 & 1/2 card honour sequence|
 |**K**QTx..|**K**QTx..||
 |**Q**J9x..|**Q**J9x..||
+
+<div style="page-break-after: always;"></div>
+
+|Trumps|No Trumps|Comment|
+|-|-|-|
 |**A**Kxx..|AKx**x**..|Top of 2 card honour sequence against Trumps|
 |**K**Qxx..|**K**Qxx..||
 |**Q**Jxx..|**Q**Jxx..||
