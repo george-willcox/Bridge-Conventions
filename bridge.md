@@ -1,11 +1,13 @@
-<p style="text-align: right;">
-George Willcox <br>
-Zeph Britten
+<span style="float: left;">
+<h1>Bridge Conventions</h1>
+</span>
+<p style="float: right; text-align: right;">
+Written by George Willcox <br>
+and Zeph Britten
 </p>
+<div style="clear: both;"></div>
 
-# Bridge Conventions
-
-## Contents
+##Contents
 
 <table>
 <tr><td style="vertical-align: top;border: none">
