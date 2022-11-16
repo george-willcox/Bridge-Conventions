@@ -30,23 +30,24 @@
 
 - [Defensive Bids](#defensive-bids)
   - [After Opposing 1NT](#after-opposing-1nt)
-    - [DONT](#dont)
 - [Doubles](#doubles)
   - [Penalty Doubles](#penalty-doubles)
   - [Takeout Doubles](#takeout-doubles)
   - [Responsive Doubles](#responsive-doubles)
-  - [Negative Doubles](#negative-doubles)
 - [1NT Escapes](#1nt-escapes)
-  - [Exit Transfers](#exit-transfers)
 - [Standard Leads](#standard-leads)
-- [Other conventions]()
-- [Bergen Raises](#bergen-raises)
-- [Bravos](#bravos)
+- [Other Optional Conventions](#other-optional-conventions)
+- [Bergen and Bravos](#bergen-and-bravos)
+  - [Bergen Raises](#bergen-raises)
+  - [Bravos](#bravos)
     - [Jacoby 2NT](#jacoby-2nt)
     - [Ambiguous Splinters](#ambiguous-splinters)
     - [Key Card Swiss](#key-card-swiss)
-- Puppet Stayman
-- Michaels and Unusual
+- [Puppet Stayman](#puppet-stayman)
+- [Michaels Cue Bids](#michaels-cue-bids)
+- [Unusual 2NT](#unusual-2nt)
+- [Optional Jacoby Transfers Responses](#optional-jacoby-transfers-responses)
+- [Optional Minor Suit Responses](#optional-minor-suit-stayman-responses)
 </td>
 </tr>
 </table>
@@ -84,7 +85,7 @@
 
 - If Both Majors have the same length open Spades, unless 17+ HCP where you can show a reverse by opening Hearts and then rebidding Spades
 
-- if both minors have equal length open 1C
+- If both minors have equal length open 1C
 
 ### Strong 1NT
 
@@ -97,9 +98,9 @@
   |Response|Meaning|
   |---|---|
   |Pass|0-7 HCP. No 5M or 6m|
-  |2C|[Stayman](#stayman)|
+  |2C|Have 4 card Major [Stayman](#stayman)|
   |2D/2H|5+ Hearts or Spades [Jacoby Transfer](#jacoby-transfers)|
-  |2S|[Minor suit Stayman](#minor-suit-stayman)|
+  |2S|5-4 shape in Minors [Minor suit Stayman](#minor-suit-stayman)|
   |2NT|8-9 HCP denies 4 of a Major unless 4-3-3-3|
   |3C|6+ Clubs, 7-8 HCP|
   |3D|6+ Diamonds, 7-8 HCP|
@@ -213,34 +214,6 @@
 
 <div style="page-break-after: always;"></div>
 
-- Responders Rebids after 2D → 2H (Optional)
-  |Rebid|Meaning|
-  |---|---|
-  |pass|0-7 HCP 5+ Hearts|
-  |2S|5 Hearts & 5 Spades, 8-9 HCP invitational|
-  |2NT|5 Hearts balanced/semi balanced invitational|
-  |3C|5+ Hearts & 4+ Clubs game forcing|
-  |3D|5+ Hearts & 4+ Diamonds game forcing|
-  |3H|6+ Hearts invitational|
-  |3NT|balanced/semi balanced partner can pass or correct to 4H|
-  |4H|6+ Hearts sign-off|
-  |4NT|Quantitative inviting slam or correct to 5H|
-
-- Responders Rebids after 2H → 2S (Optional)
-  |Rebid|Meaning|
-  |---|---|
-  |pass|0-7 HCP 5+ Spades|
-  |2NT|5 Spades balanced/semi balanced invitational|
-  |3C|5+ Spades & 4+ Clubs game forcing|
-  |3D|5+ Spades & 4+ Diamonds game forcing|
-  |3H|5+ Hearts & 5+ Spades game forcing with slam interest|
-  |3S|6+ Spades invitational|
-  |3NT|balanced/semi balanced partner can pass or correct to 4S|
-  |4H|5+ Spades & 5+ Hearts game values|
-  |4S|6+ Spades sign-off|
-
-<div style="page-break-after: always;"></div>
-
 ### Minor Suit Stayman
 
 - After 1NT bid 2S if no 4 card Major but want to ask for a 4 card minor
@@ -254,58 +227,7 @@
   |3NT|Denies 4 card minor, shows max strength and stopper in both Majors|
   |4C/4D|4+ of bid suit with max strength|
 
-- Responders Rebids:
-- After opener bids 2NT:
-  |Rebid|Meaning|
-  |---|---|
-  |Pass|Minimum Strength, relatively balanced, less than 5-5 in minors|
-  |3C|Natural 5+ Clubs could have 5+ Diamonds|
-  |3D|5+ Diamonds opener expected to pass|
-  |3H|Singleton/Void in H with slam interest Forcing|
-  |3S|Singleton/Void in S with slam interest Forcing|
-  |3NT|Sign-off|
-  |4C/4D|Strong and Forcing with 5+ of the minor bid|
 
-<div style="page-break-after: always;"></div>
-
-- After Opener Rebids 3C:
-  |Rebid|Meaning|
-  |---|---|
-  |pass|minimum strength|
-  |3D|Strong 5+ Diamonds|
-  |3H|Singleton/Void in H with slam interest Forcing|
-  |3S|Singleton/Void in S with slam interest Forcing|
-  |3NT|Natural Balanced Hand|
-  |4C|Invitational to 5C, shows Unbalanced hand due to bypass of 3NT|
-  |4D|Interest in Diamonds Slam|
-
-- After Opener Rebids 3D
-  |Rebid|Meaning|
-  |---|---|
-  |pass|Minimum Strength|
-  |3H|Singleton/Void in H with slam interest Forcing|
-  |3S|Singleton/Void in S with slam interest Forcing|
-  |3NT|Natural Balanced Hand|
-  |4C|Interest in Clubs Slam|
-  |4D|Invitational to 5D, shows Unbalanced hand due to bypass of 3NT|
-
-- After Opener rebids 3H
-  |Rebid|Meaning|
-  |---|---|
-  |3S|Singleton/Void in Spades, Forcing|
-  |3NT|To Play|
-  |4C|5+ Clubs Natural and forcing|
-  |4D|5+ Diamonds Natural and forcing|
-  |4H|3 Hearts, unbalanced proposes playing the 4-3 Major fit|
-
-- After Opener rebids 3S
-  |Rebid|Meaning|
-  |---|---|
-  |3NT|To Play|
-  |4C|5+ Clubs Natural and forcing|
-  |4D|5+ Diamonds Natural and forcing|
-  |4H|Singleton/Void in H with slam interest Forcing|
-  |4S|3 Spades, unbalanced proposes playing the 4-3 Major fit|
 
 ### Texas Transfers
 
@@ -315,59 +237,6 @@
   |4D|6+ Hearts & 10-15 HCP|
   |4H|6+ Spades & 10-15 HCP|
 - Opener must Complete Transfer in the same way as [Jacoby Transfers](#jacoby-transfers)
-
-<div style="page-break-after: always;"></div>
-
-#### Jacoby 2NT
-
-- After a 2NT bid from partner showing major suit support, slam could be on the table
-- Openers Rebids
-  |Rebid|Meaning|
-  |---|---|
-  |3C/3D|Singleton/void in Suit bid rebidding this suit shows a Void|
-  |3T|16+ HCP with slam interest, asks a description of 2NT bidders hand|
-  |3O|Singleton/Void in Opposite Major rebidding shows a Void|
-  |3NT|14-15 HCP balanced|
-  |4C/4D|5+ cards of bid suit|
-  |4H|if H are trumps its a sign-off, if S are trumps shows 5+ hearts|
-  |4S|Spades sign-off|
-  |4NT|[RKCB](#rkcb-1430)|
-- Priority of openers Rebid:
-  - Show a 5 Card side suit
-  - show a Singleton/Void
-  - bidding 3NT
-  - Jumping to 4T
-  - Bidding 3T
-- After any 3 level rebid responder can rebid to show first round control - Ace/Void
-
-<div style="page-break-after: always;"></div>
-  
-#### Ambiguous Splinters
-
-- To ask for the Void Suit bid 3NT
-  |Response|Meaning|
-  |---|---|
-  |4C/4D|Singleton/Void in Bid Suit|
-  |4H|Singleton/Void in the unbid Major|
-
-#### Key Card Swiss
-
-- Shows either Balanced or semi balanced hands - Singleton Aces allowed
-- Features are
-  - Third Key card
-  - Q of Trumps
-  - 5+ Trumps or singleton,
-  
-  |Bid|Meaning|
-  |---|---|
-  |4C|2 Key cards and a Feature|
-  |4D|lacks the strength of 4C|
-- After 4C opener can enquire about the Feature with a bid of 4D
-  |Response|Meaning|
-  |---|---|
-  |4T|Q of Trumps|
-  |4O|5+ Trumps|
-  |4NT|3rd Key card|
 
 <div style="page-break-after: always;"></div>
 
@@ -434,8 +303,6 @@
 
 ### After Opposing 1NT
 
-#### DONT
-
 - Used after opponents open a [Strong 1NT](#strong-1nt)
 - Shows all 1 suited and 2 suited hands at the 2 level
 - Require 8+ HCP
@@ -480,6 +347,8 @@
   |3NT|13-15 HCP Balanced, Stopper in enemy suit, sign-off|
   |Cue-Bid|10+ HCP Unbalanced|
 
+<div style="page-break-after: always;"></div>
+
 ### Responsive Doubles
 
 - A double used too show shape when:
@@ -492,13 +361,9 @@
   |Opponents bid Minor| 4-4 in Majors|
   |Opponents bid Major| 4-4 in Minors|
 
-<div style="page-break-after: always;"></div>
-
 ## 1NT Escapes
 
-### Exit Transfers
-
-- used after opponents double 1NT
+- Used after opponents double 1NT
   |Bid|Meaning|
   |---|---|
   |pass|requires partner to make an artificial Redouble; Shows a 4-4 hand|
@@ -514,8 +379,6 @@
   |2C|4 Clubs & 4 cards in a higher Suit|
   |2D|4 Diamonds & 4 cards in a higher Suit |
   |2H|4 Hearts & 4 Spades|
-
-- For all of these bids, Partner can pass or correct
 
 <div style="page-break-after: always;"></div>
 
@@ -556,7 +419,7 @@ H is any honour
 |K**J**xx..|K**J**xx..|Top of an internal honour sequence|
 |Q**T**xx..|Q**T**xx..||
 
-## More optional things
+## Other Optional Conventions
 <!-- Need to edit down and reorganise --->
 
 ### Puppet Stayman
@@ -576,7 +439,7 @@ H is any honour
   |4C|shows 4 in both majors with slam interest|
   |4D|shows 4 in both majors with no slam interest|
 
-### Bergen & Bravos
+### Bergen and Bravos
 
 #### Bergen raises
 - T shows major bid, O shows opposite Major
@@ -622,6 +485,59 @@ H is any honour
   |3NT|balanced|
   |4C/4D|Singleton or void in bid suit|
   |4H|Singleton or void in opposite Major|
+
+#### Jacoby 2NT
+
+- After a 2NT bid from partner showing major suit support, slam could be on the table
+- Openers Rebids
+  |Rebid|Meaning|
+  |---|---|
+  |3C/3D|Singleton/void in Suit bid rebidding this suit shows a Void|
+  |3T|16+ HCP with slam interest, asks a description of 2NT bidders hand|
+  |3O|Singleton/Void in Opposite Major rebidding shows a Void|
+  |3NT|14-15 HCP balanced|
+  |4C/4D|5+ cards of bid suit|
+  |4H|if H are trumps its a sign-off, if S are trumps shows 5+ hearts|
+  |4S|Spades sign-off|
+  |4NT|[RKCB](#rkcb-1430)|
+- Priority of openers Rebid:
+  - Show a 5 Card side suit
+  - show a Singleton/Void
+  - bidding 3NT
+  - Jumping to 4T
+  - Bidding 3T
+- After any 3 level rebid responder can rebid to show first round control - Ace/Void
+
+<div style="page-break-after: always;"></div>
+  
+#### Ambiguous Splinters
+
+- To ask for the Void Suit bid 3NT
+  |Response|Meaning|
+  |---|---|
+  |4C/4D|Singleton/Void in Bid Suit|
+  |4H|Singleton/Void in the unbid Major|
+
+#### Key Card Swiss
+
+- Shows either Balanced or semi balanced hands - Singleton Aces allowed
+- Features are
+  - Third Key card
+  - Q of Trumps
+  - 5+ Trumps or singleton,
+  
+  |Bid|Meaning|
+  |---|---|
+  |4C|2 Key cards and a Feature|
+  |4D|lacks the strength of 4C|
+- After 4C opener can enquire about the Feature with a bid of 4D
+  |Response|Meaning|
+  |---|---|
+  |4T|Q of Trumps|
+  |4O|5+ Trumps|
+  |4NT|3rd Key card|
+
+<div style="page-break-after: always;"></div>
 
 ### Michaels Cue-bids
 - A forcing bid used to show shape
@@ -696,3 +612,86 @@ H is any honour
   - Weak 4 card support - Jump bid
   - With a Strong Hand, Cue-bid opps, this asks Unusual bidder to bid cheapest suit with 8-10 HCP and anything else with 10+ HCP
   - A bid of the 4th suit is natural 6+ cards of the suit
+
+### Optional Jacoby Transfers Responses
+
+- Responders Rebids after 2D → 2H (Optional)
+  |Rebid|Meaning|
+  |---|---|
+  |pass|0-7 HCP 5+ Hearts|
+  |2S|5 Hearts & 5 Spades, 8-9 HCP invitational|
+  |2NT|5 Hearts balanced/semi balanced invitational|
+  |3C|5+ Hearts & 4+ Clubs game forcing|
+  |3D|5+ Hearts & 4+ Diamonds game forcing|
+  |3H|6+ Hearts invitational|
+  |3NT|balanced/semi balanced partner can pass or correct to 4H|
+  |4H|6+ Hearts sign-off|
+  |4NT|Quantitative inviting slam or correct to 5H|
+
+- Responders Rebids after 2H → 2S (Optional)
+  |Rebid|Meaning|
+  |---|---|
+  |pass|0-7 HCP 5+ Spades|
+  |2NT|5 Spades balanced/semi balanced invitational|
+  |3C|5+ Spades & 4+ Clubs game forcing|
+  |3D|5+ Spades & 4+ Diamonds game forcing|
+  |3H|5+ Hearts & 5+ Spades game forcing with slam interest|
+  |3S|6+ Spades invitational|
+  |3NT|balanced/semi balanced partner can pass or correct to 4S|
+  |4H|5+ Spades & 5+ Hearts game values|
+  |4S|6+ Spades sign-off|
+
+### Optional Minor Suit Stayman Responses
+
+- Responders Rebids:
+- After opener bids 2NT:
+  |Rebid|Meaning|
+  |---|---|
+  |Pass|Minimum Strength, relatively balanced, less than 5-5 in minors|
+  |3C|Natural 5+ Clubs could have 5+ Diamonds|
+  |3D|5+ Diamonds opener expected to pass|
+  |3H|Singleton/Void in H with slam interest Forcing|
+  |3S|Singleton/Void in S with slam interest Forcing|
+  |3NT|Sign-off|
+  |4C/4D|Strong and Forcing with 5+ of the minor bid|
+
+<div style="page-break-after: always;"></div>
+
+- After Opener Rebids 3C:
+  |Rebid|Meaning|
+  |---|---|
+  |pass|minimum strength|
+  |3D|Strong 5+ Diamonds|
+  |3H|Singleton/Void in H with slam interest Forcing|
+  |3S|Singleton/Void in S with slam interest Forcing|
+  |3NT|Natural Balanced Hand|
+  |4C|Invitational to 5C, shows Unbalanced hand due to bypass of 3NT|
+  |4D|Interest in Diamonds Slam|
+
+- After Opener Rebids 3D
+  |Rebid|Meaning|
+  |---|---|
+  |pass|Minimum Strength|
+  |3H|Singleton/Void in H with slam interest Forcing|
+  |3S|Singleton/Void in S with slam interest Forcing|
+  |3NT|Natural Balanced Hand|
+  |4C|Interest in Clubs Slam|
+  |4D|Invitational to 5D, shows Unbalanced hand due to bypass of 3NT|
+
+- After Opener rebids 3H
+  |Rebid|Meaning|
+  |---|---|
+  |3S|Singleton/Void in Spades, Forcing|
+  |3NT|To Play|
+  |4C|5+ Clubs Natural and forcing|
+  |4D|5+ Diamonds Natural and forcing|
+  |4H|3 Hearts, unbalanced proposes playing the 4-3 Major fit|
+
+- After Opener rebids 3S
+  |Rebid|Meaning|
+  |---|---|
+  |3NT|To Play|
+  |4C|5+ Clubs Natural and forcing|
+  |4D|5+ Diamonds Natural and forcing|
+  |4H|Singleton/Void in H with slam interest Forcing|
+  |4S|3 Spades, unbalanced proposes playing the 4-3 Major fit|
