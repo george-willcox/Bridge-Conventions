@@ -1,5 +1,10 @@
 # Bridge Conventions
 
+<p style="text-align: right;">
+George Willcox <br>
+Zeph Britten
+</p>
+
 ## Contents
 
 <table>
@@ -37,17 +42,18 @@
 - [1NT Escapes](#1nt-escapes)
 - [Standard Leads](#standard-leads)
 - [Other Optional Conventions](#other-optional-conventions)
-- [Bergen and Bravos](#bergen-and-bravos)
-  - [Bergen Raises](#bergen-raises)
-  - [Bravos](#bravos)
-    - [Jacoby 2NT](#jacoby-2nt)
-    - [Ambiguous Splinters](#ambiguous-splinters)
-    - [Key Card Swiss](#key-card-swiss)
-- [Puppet Stayman](#puppet-stayman)
-- [Michaels Cue Bids](#michaels-cue-bids)
-- [Unusual 2NT](#unusual-2nt)
-- [Optional Jacoby Transfers Responses](#optional-jacoby-transfers-responses)
-- [Optional Minor Suit Responses](#optional-minor-suit-stayman-responses)
+  - [Puppet Stayman](#puppet-stayman)
+  - [Bergen and Bravos](#bergen-and-bravos)
+    - [Bergen Raises](#bergen-raises)
+    - [Bravos](#bravos)
+      - [Jacoby 2NT](#jacoby-2nt)
+      - [Ambiguous Splinters](#ambiguous-splinters)
+      - [Key Card Swiss](#key-card-swiss)
+  - [Other Defensive Bids](#other-defensive-bids)
+    - [Michaels Cue Bids](#michaels-cue-bids)
+    - [Unusual 2NT](#unusual-2nt)
+  - [Optional Jacoby Transfers Responses](#optional-jacoby-transfers-responses)
+  - [Optional Minor Suit Responses](#optional-minor-suit-stayman-responses)
 </td>
 </tr>
 </table>
@@ -419,10 +425,14 @@ H is any honour
 |K**J**xx..|K**J**xx..|Top of an internal honour sequence|
 |Q**T**xx..|Q**T**xx..||
 
+<div style="page-break-after: always;"></div>
+
 ## Other Optional Conventions
 <!-- Need to edit down and reorganise --->
 
 ### Puppet Stayman
+
+An alternative to Stayman to use after a [2NT](#2nt) opening.
 
 - After 2NT responder Bids 3C to show either a 4 or 5 card major and 3+ HCP
   |Response to 3C|Meaning|
@@ -439,7 +449,11 @@ H is any honour
   |4C|shows 4 in both majors with slam interest|
   |4D|shows 4 in both majors with no slam interest|
 
+<div style="page-break-after: always;"></div>
+
 ### Bergen and Bravos
+
+These are responses to show 4+ card support, choose either Bergen or Bravos, up to partnership agreement.
 
 #### Bergen raises
 - T shows major bid, O shows opposite Major
@@ -452,6 +466,8 @@ H is any honour
   |3D|5-8 HCP 4+ cards in Trump suit|
   |3T|0-4 HCP 4+ cards in Trump suit|
   |3O|12+ HCP Singleton/Void [Ambiguous Splinters](#ambiguous-splinters)|
+
+<div style="page-break-after: always;"></div>
 
 #### Bravos
 
@@ -539,6 +555,10 @@ H is any honour
 
 <div style="page-break-after: always;"></div>
 
+## Other Defensive Bids
+
+Michaels and Unusual 2NT are used after your opponent opens, to show the shape of your hand.
+
 ### Michaels Cue-bids
 - A forcing bid used to show shape
 - 8+ HCP
@@ -561,6 +581,9 @@ H is any honour
   |3H|Preempt with 4+ Hearts|
   |3S|Preempt with 4+ Spades|
   |3NT|Natural Signoff with a Big balanced hand with no interest in Major game|
+
+<div style="page-break-after: always;"></div>
+
 - After 2D:
   |Response|Meaning|
   |---|---|
@@ -582,6 +605,9 @@ H is any honour
   |3H|Artificial, showing slam or game interest in Spades or a minor, Forcing|
   |3S|Preempt with 4+ Spades|
   |3NT|Natural Signoff|
+
+<div style="page-break-after: always;"></div>
+
 - After 2S:
   |Response|Meaning|
   |---|---|
@@ -594,7 +620,7 @@ H is any honour
 - Overcallers Rebids
 - If partner raised a cue bid, overcaller rebids their cheapest suit to show 8-10 HCP, all other bids show 10+ HCP
 - If partner Bid 2NT overcaller bids their minor suit
-- With equal length in 2 suits always bid the cheapest suit first when responding to Michaels cue-bidder.
+- With equal length in 2 suits bid the cheapest suit first when responding to Michaels cue-bidder.
   
 ### Unusual 2NT
 
@@ -641,6 +667,8 @@ H is any honour
   |4H|5+ Spades & 5+ Hearts game values|
   |4S|6+ Spades sign-off|
 
+<div style="page-break-after: always;"></div>
+
 ### Optional Minor Suit Stayman Responses
 
 - Responders Rebids:
@@ -655,8 +683,6 @@ H is any honour
   |3NT|Sign-off|
   |4C/4D|Strong and Forcing with 5+ of the minor bid|
 
-<div style="page-break-after: always;"></div>
-
 - After Opener Rebids 3C:
   |Rebid|Meaning|
   |---|---|
@@ -667,6 +693,8 @@ H is any honour
   |3NT|Natural Balanced Hand|
   |4C|Invitational to 5C, shows Unbalanced hand due to bypass of 3NT|
   |4D|Interest in Diamonds Slam|
+
+<div style="page-break-after: always;"></div>
 
 - After Opener Rebids 3D
   |Rebid|Meaning|
