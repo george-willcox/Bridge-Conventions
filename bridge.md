@@ -1,9 +1,9 @@
-# Bridge Conventions
-
 <p style="text-align: right;">
 George Willcox <br>
 Zeph Britten
 </p>
+
+# Bridge Conventions
 
 ## Contents
 
@@ -641,7 +641,7 @@ Michaels and Unusual 2NT are used after your opponent opens, to show the shape o
 
 ### Optional Jacoby Transfers Responses
 
-- Responders Rebids after 2D → 2H (Optional)
+- Responders Rebids after 2D → 2H
   |Rebid|Meaning|
   |---|---|
   |pass|0-7 HCP 5+ Hearts|
@@ -654,7 +654,7 @@ Michaels and Unusual 2NT are used after your opponent opens, to show the shape o
   |4H|6+ Hearts sign-off|
   |4NT|Quantitative inviting slam or correct to 5H|
 
-- Responders Rebids after 2H → 2S (Optional)
+- Responders Rebids after 2H → 2S
   |Rebid|Meaning|
   |---|---|
   |pass|0-7 HCP 5+ Spades|
