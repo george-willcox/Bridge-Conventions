@@ -101,14 +101,14 @@ and Zeph Britten
 - Over-calling 1NT shows 15-18 HCP with stopper in enemy suits
 - No more than 1 doubleton
 - No voids or singletons
-- 12-14 HCP open 1 of a suit then rebid 1NT
+- 12-14 HCP open 1 of a Suit then rebid 1NT
 - Responses:
   |Response|Meaning|
   |---|---|
   |Pass|0-7 HCP. No 5M or 6m|
   |2C|Have 4 card Major [Stayman](#stayman)|
   |2D/2H|5+ Hearts or Spades [Jacoby Transfer](#jacoby-transfers)|
-  |2S|5-4 shape in Minors [Minor suit Stayman](#minor-suit-stayman)|
+  |2S|5-4 shape in Minors [Minor Suit Stayman](#minor-suit-stayman)|
   |2NT|8-9 HCP denies 4 of a Major unless 4-3-3-3|
   |3C|6+ Clubs, 7-8 HCP|
   |3D|6+ Diamonds, 7-8 HCP|
@@ -122,7 +122,7 @@ and Zeph Britten
 ### Weak 2's
 
 - < 12 HCP
-- 6 cards in suit
+- 6 cards in Suit
 - 2 of 3 top honours or 3 of 5 top honours
 - NOT 2C
 - Responses:
@@ -130,7 +130,7 @@ and Zeph Britten
   |---|---|
   |Simple Raise|3/4 card support and 6 - 13 HCP|
   |Jump Raise|5+ card support|
-  |New Suit|Natural 5+ cards in new suit, Denying openers suit|
+  |New Suit|Natural 5+ cards in new Suit, Denying openers Suit|
   |2NT|15+ HCP|
 
 ### Weak 3's
@@ -165,34 +165,34 @@ and Zeph Britten
     |4NT|28-30 HCP balanced|
     |5NT|31-32 HCP balanced|
 
-- Openers response to Positive suit:
+- Openers response to Positive Suit:
     |Response|Meaning|
     |---|---|
     |2NT|23-24 HCP balanced|
-    |3NT|over 3m shows same as 2NT; over 3M shows 25-27 HCP|
+    |3NT|Over 3m shows same as 2NT; over 3M shows 25-27 HCP|
     |Raise|17+ HCP 3+ card support|
-    |New Suit|17+ HCP 5+ card suit|
+    |New Suit|17+ HCP 5+ card Suit|
   
 - Responders Rebids
-  - opener bids 2NT: See [Strong 1NT](#strong-1nt)
-  - opener bids a  suit:
+  - Opener bids 2NT: See [Strong 1NT](#strong-1nt)
+  - Opener bids a  Suit:
     - Single Raise: 3+ cards slam interest
     - Double Raise: 3+ cards sign-off
 
 ### 2NT
 
 - 20-21 HCP Balanced
-- can hold a 5 card Major
-- see [Strong 1NT](#strong-1nt) responses, just one level higher
-- for 18-19 HCP open 1 of a suit then rebid 2NT
+- Can hold a 5 card Major
+- See [Strong 1NT](#strong-1nt) responses, just one level higher
+- For 18-19 HCP open 1 of a Suit then rebid 2NT
 
 ## Constructive Bidding
 
 ### Natural rebids
 
-- Require 6+ HCP for suit support
-- Change of suit 8+ HCP and 4 card suit
-- Changing suit from a Major and then bidding back into it shows 10+ HCP and 3 card Support
+- Require 6+ HCP for Suit support
+- Change of Suit 8+ HCP and 4 card Suit
+- Changing Suit from a Major and then bidding back into it shows 10+ HCP and 3 card Support
 
 ### Stayman
 
@@ -201,7 +201,7 @@ and Zeph Britten
 - Openers rebids:
     |Response|Meaning|
     |---|---|
-    |2D|Denies 4 of a Major suit|
+    |2D|Denies 4 of a Major Suit|
     |2H|4 Hearts Possible 4 Spades|
     |2S|4 Spades denies 4 Hearts|
 
@@ -217,8 +217,8 @@ and Zeph Britten
 - Openers Rebids:
   |Rebid|Meaning|
   |---|---|
-  |2M|must complete the transfer|
-  |3M|4+ card support for the suit|
+  |2M|Must complete the transfer|
+  |3M|4+ card support for the Suit|
 
 <div style="page-break-after: always;"></div>
 
@@ -233,7 +233,7 @@ and Zeph Britten
   |3H|Heart Stopper, Invites 3NT with a spade Stopper, may have a 4 card minor|
   |3S|Spade Stopper, Invites 3NT with a heart Stopper, may have a 4 card minor|
   |3NT|Denies 4 card minor, shows max strength and stopper in both Majors|
-  |4C/4D|4+ of bid suit with max strength|
+  |4C/4D|4+ of bid Suit with max strength|
 
 
 
@@ -278,17 +278,17 @@ and Zeph Britten
   |6S|3 Kings|
 
 - Asking for the Trump Queen:
-- To enquire, the Blackwood bidder will bid the cheapest non trump suit
+- To enquire, the Blackwood bidder will bid the cheapest non trump Suit
   |Response|Meaning|
   |---|---|
-  |Trumps suit| No Trump Q|
+  |Trumps Suit| No Trump Q|
   |5NT|Trump Q without side Kings|
   |Non Trump Suit|Trump Q with King in that Suit|
 
 ### Gerber
 
 - 4C over NT or jump rebid of 4C over NT
-- requires slam points
+- Requires slam points
 - Ace asking bid
   |Response to 4C|Meaning|
   |---|---|
@@ -324,7 +324,7 @@ and Zeph Britten
 - After a Double 2C relay
   |cue-bidder's rebid|Meaning|
   |---|---|
-  |pass|6+ Clubs|
+  |Pass|6+ Clubs|
   |2D|6+ Diamonds|
   |2H|6+ Hearts|
   |2S|6+ Spades|
@@ -341,18 +341,18 @@ and Zeph Britten
 
 - Artificial Double at the 1 level
 - Shows either
-  - 11+ HCP and 3+ card support for each unbid suit
-  - 16+ HCP and 1 suit
+  - 11+ HCP and 3+ card support for each unbid Suit
+  - 16+ HCP and 1 Suit
   
   |Partners Response|Meaning|
   |---|---|
-  |pass|Converts Takeout to Penalty; Strong Holding in opponents Trumps, no biddable suit|
-  |"Cheapest" suit|3+ cards 0-9 HCP|
+  |Pass|Converts Takeout to Penalty; Strong Holding in opponents Trumps, no biddable Suit|
+  |"Cheapest" Suit|3+ cards 0-9 HCP|
   |Jump Suit|4+ cards 10-12 HCP|
   |Double Jump Suit|6+ cards 6-8 HCP|
-  |Cheapest NT|7-10 HCP, stopper in enemy suit, no 4 M|
+  |Cheapest NT|7-10 HCP, stopper in enemy Suit, no 4 M|
   |Jump NT|11-12 HCP, and see above|
-  |3NT|13-15 HCP Balanced, Stopper in enemy suit, sign-off|
+  |3NT|13-15 HCP Balanced, Stopper in enemy Suit, sign-off|
   |Cue-Bid|10+ HCP Unbalanced|
 
 <div style="page-break-after: always;"></div>
@@ -374,7 +374,7 @@ and Zeph Britten
 - Used after opponents double 1NT
   |Bid|Meaning|
   |---|---|
-  |pass|requires partner to make an artificial Redouble; Shows a 4-4 hand|
+  |Pass|Requires partner to make an artificial Redouble; Shows a 4-4 hand|
   |redouble|5+ Clubs|
   |2C|5+ Diamonds|
   |2D|5+ Hearts|
@@ -383,7 +383,7 @@ and Zeph Britten
 - After The Artificial Redouble
   |Bid|Meaning|
   |---|---|
-  |pass|Desire to Play 1NT redoubled|
+  |Pass|Desire to Play 1NT redoubled|
   |2C|4 Clubs & 4 cards in a higher Suit|
   |2D|4 Diamonds & 4 cards in a higher Suit |
   |2H|4 Hearts & 4 Spades|
@@ -392,12 +392,12 @@ and Zeph Britten
 
 ## Standard Leads
 
-*AFTER* deciding on suit to lead, match suit structure in table.
+*AFTER* deciding on Suit to lead, match Suit structure in table.
 H is any honour
 
 |Trumps|No Trumps|Comment|
 |-|-|-|
-|**A**xxx|Axx**x**|**Never** under-lead an Ace in trump contracts|
+|**A**xxx|Axx**x**|**NEVER** under-lead an Ace in trump contracts|
 |Hxx**x**|Hxx**x**|4th Highest with an honour|
 |Hx**x**|Hx**x**||
 |x**x**xx|x**x**xx|2nd with no honour|
@@ -405,7 +405,7 @@ H is any honour
 |T**x**x|T**x**x||
 |**H**x|**H**x|Top of doubleton, excluding Kx and Qx|
 |**x**x|**x**x||
-|A**K**|**A**K|lower in suit contract showing the higher after shows you are voided|
+|A**K**|**A**K|lower in Suit contract showing the higher after shows you are voided|
 |K**Q**|**K**Q||
 |Q**J**|**Q**J||
 |**A**KQx..|**A**KQx..|Top of a 3 card honour sequence|
@@ -439,17 +439,17 @@ An alternative to Stayman to use after a [2NT](#2nt) opening.
 - After 2NT responder Bids 3C to show either a 4 or 5 card major and 3+ HCP
   |Response to 3C|Meaning|
   |---|---|
-  |3D|no 5 card major but at least one 4M|
+  |3D|No 5 card major but at least one 4M|
   |3H|5 Hearts|
   |3S|5 Spades|
-  |3NT|no 4 or 5 card major|
-- stayman responses to 3D
+  |3NT|No 4 or 5 card major|
+- Stayman responses to 3D
   |Response to 3D|Meaning|
   |---|---|
-  |3H|shows 4 Spades|
-  |3S|shows 4 Hearts|
-  |4C|shows 4 in both majors with slam interest|
-  |4D|shows 4 in both majors with no slam interest|
+  |3H|Shows 4 Spades|
+  |3S|Shows 4 Hearts|
+  |4C|Shows 4 in both majors with slam interest|
+  |4D|Shows 4 in both majors with no slam interest|
 
 <div style="page-break-after: always;"></div>
 
@@ -459,14 +459,14 @@ These are responses to show 4+ card support, choose either Bergen or Bravos, up 
 
 #### Bergen raises
 - T shows major bid, O shows opposite Major
-- After a 1M opener if responder has 4+ cards of the Major suit
+- After a 1M opener if responder has 4+ cards of the Major Suit
   |Responders Bid|Meaning|
   |---|---|
-  |2T|3 cards in suit, 6+ HCP|
+  |2T|3 cards in Suit, 6+ HCP|
   |2NT|12+ HCP Balanced [Jacoby 2NT](#jacoby-2nt)|
-  |3C|9-11 HCP 4+ cards in Trump suit|
-  |3D|5-8 HCP 4+ cards in Trump suit|
-  |3T|0-4 HCP 4+ cards in Trump suit|
+  |3C|9-11 HCP 4+ cards in Trump Suit|
+  |3D|5-8 HCP 4+ cards in Trump Suit|
+  |3T|0-4 HCP 4+ cards in Trump Suit|
   |3O|12+ HCP Singleton/Void [Ambiguous Splinters](#ambiguous-splinters)|
 
 <div style="page-break-after: always;"></div>
@@ -486,13 +486,12 @@ These are responses to show 4+ card support, choose either Bergen or Bravos, up 
   |4C/4D|12-15 HCP Balanced [Key card Swiss](#key-card-swiss)|
   |4NT|[RKCB](#rkcb-1430)|
 
-- 3 way Relay:
-- Opener Must rebid 3D
+- 3 way Relay; Opener Must rebid 3D
   |Response|Meaning|
   |---|---|
   |3T|6-10 HCP|
   |3O|12-15 HCP and void; Opener can rebid 3NT to ask for void|
-  |4C/4D|16+ HCP with void in bid suit|
+  |4C/4D|16+ HCP with void in bid Suit|
   |4H|16+ HCP void in Opposite Major|
 
 <div style="page-break-after: always;"></div>
@@ -500,28 +499,28 @@ These are responses to show 4+ card support, choose either Bergen or Bravos, up 
 - 2 Way Relay; Opener can sign-off in 3T or Enquire with 3O
   |Response|Meaning|
   |---|---|
-  |3NT|balanced|
-  |4C/4D|Singleton or void in bid suit|
+  |3NT|Balanced|
+  |4C/4D|Singleton or void in bid Suit|
   |4H|Singleton or void in opposite Major|
 
 #### Jacoby 2NT
 
-- After a 2NT bid from partner showing major suit support, slam could be on the table
-- Openers Rebids
+- After a 2NT bid from partner showing major Suit support, slam could be on the table
+- Openers Rebids:
   |Rebid|Meaning|
   |---|---|
-  |3C/3D|Singleton/void in Suit bid rebidding this suit shows a Void|
+  |3C/3D|Singleton/void in Suit bid rebidding this Suit shows a Void|
   |3T|16+ HCP with slam interest, asks a description of 2NT bidders hand|
   |3O|Singleton/Void in Opposite Major rebidding shows a Void|
   |3NT|14-15 HCP balanced|
-  |4C/4D|5+ cards of bid suit|
-  |4H|if H are trumps its a sign-off, if S are trumps shows 5+ hearts|
+  |4C/4D|5+ cards of bid Suit|
+  |4H|If H are trumps its a sign-off, if S are trumps shows 5+ hearts|
   |4S|Spades sign-off|
   |4NT|[RKCB](#rkcb-1430)|
 - Priority of openers Rebid:
-  - Show a 5 Card side suit
-  - show a Singleton/Void
-  - bidding 3NT
+  - Show a 5 Card side Suit
+  - Show a Singleton/Void
+  - Bidding 3NT
   - Jumping to 4T
   - Bidding 3T
 - After any 3 level rebid responder can rebid to show first round control - Ace/Void
@@ -533,12 +532,12 @@ These are responses to show 4+ card support, choose either Bergen or Bravos, up 
 - To ask for the Void Suit bid 3NT
   |Response|Meaning|
   |---|---|
-  |4C/4D|Singleton/Void in Bid Suit|
+  |4C/4D|Singleton/Void in bid Suit|
   |4H|Singleton/Void in the unbid Major|
 
 #### Key Card Swiss
 
-- Shows either Balanced or semi balanced hands - Singleton Aces allowed
+- Shows either Balanced or semi-balanced hands - Singleton Aces allowed
 - Features are
   - Third Key card
   - Q of Trumps
@@ -574,55 +573,55 @@ Michaels and Unusual 2NT are used after your opponent opens, to show the shape o
 - After 2C:
   |Response|Meaning|
   |---|---|
-  |2D|Very Good Diamond Suit 6+ Cards, Denies 3+ card support for either major|
-  |2H|non forcing signoff|
-  |2S|non forcing signoff|
+  |2D|Very good Diamond Suit 6+ Cards, Denies 3+ card support for either major|
+  |2H|Non-forcing sign-off|
+  |2S|Non-forcing sign-off|
   |2NT|Invites 3NT|
   |3C|Artificial, showing slam or game interest in Hearts or Spades, Forcing|
   |3D|Very strong Diamonds 6+ Cards Forcing|
   |3H|Preempt with 4+ Hearts|
   |3S|Preempt with 4+ Spades|
-  |3NT|Natural Signoff with a Big balanced hand with no interest in Major game|
+  |3NT|Natural sign-off with a Big balanced hand with no interest in Major game|
 
 <div style="page-break-after: always;"></div>
 
 - After 2D:
   |Response|Meaning|
   |---|---|
-  |2H|non forcing signoff|
-  |2S|non forcing signoff|
+  |2H|non forcing sign-off|
+  |2S|non forcing sign-off|
   |2NT|Invites 3NT|
   |3C|Very Good Club Suit 6+ Cards, Denies 3+ card support for either major|
   |3D|Artificial, showing slam or game interest in Hearts or Spades, Forcing|
   |3H|Preempt with 4+ Hearts|
   |3S|Preempt with 4+ Spades|
-  |3NT|Natural Signoff|
+  |3NT|Natural sign-off|
 - After 2H:
   |Response|Meaning|
   |---|---|
-  |2S|non forcing signoff|
-  |2NT|Asks Overcaller to Bid minor Suit|
+  |2S|non forcing sign-off|
+  |2NT|Asks overcaller to Bid minor Suit|
   |3C|Very Good Club Suit 6+ Cards|
   |3D|Very Good Club Suit 6+ Cards|
   |3H|Artificial, showing slam or game interest in Spades or a minor, Forcing|
   |3S|Preempt with 4+ Spades|
-  |3NT|Natural Signoff|
+  |3NT|Natural sign-off|
 
 <div style="page-break-after: always;"></div>
 
 - After 2S:
   |Response|Meaning|
   |---|---|
-  |2NT|Asks Overcaller to Bid minor Suit|
+  |2NT|Asks overcaller to Bid minor Suit|
   |3C|Very Good Club Suit 6+ Cards|
   |3D|Very Good Club Suit 6+ Cards|
-  |3H|Natural Signoff|
+  |3H|Natural sign-off|
   |3S|Artificial, showing slam or game interest in Hearts or a minor, Forcing|
-  |3NT|Natural Signoff|
-- Overcallers Rebids
-- If partner raised a cue bid, overcaller rebids their cheapest suit to show 8-10 HCP, all other bids show 10+ HCP
-- If partner Bid 2NT overcaller bids their minor suit
-- With equal length in 2 suits bid the cheapest suit first when responding to Michaels cue-bidder.
+  |3NT|Natural sign-off|
+- Overcaller's Rebids
+  - If partner raised a cue bid, overcaller rebids their cheapest Suit to show 8-10 HCP, all other bids show 10+ HCP
+  - If partner Bid 2NT overcaller bids their minor Suit
+- With equal length in 2 suits bid the cheapest Suit first when responding to Michaels cue-bidder.
   
 ### Unusual 2NT
 
@@ -635,37 +634,37 @@ Michaels and Unusual 2NT are used after your opponent opens, to show the shape o
   |2NT over 1H|5+ Diamonds & 5+ Clubs|
   |2NT over 1S|5+ Diamonds & 5+ Clubs|
 - Partners responses:
-  - Bid suit with greatest tolerance
-  - With Equal length suits Bid the cheapest
-  - Weak 4 card support - Jump bid
-  - With a Strong Hand, Cue-bid opps, this asks Unusual bidder to bid cheapest suit with 8-10 HCP and anything else with 10+ HCP
-  - A bid of the 4th suit is natural 6+ cards of the suit
+  - Bid Suit with greatest tolerance
+  - With Equal length suits bid the cheapest
+  - Weak 4 card support - jump bid
+  - With a Strong Hand, Cue-bid opps, this asks Unusual bidder to bid cheapest Suit with 8-10 HCP and anything else with 10+ HCP <!-- What? -->
+  - A bid of the 4th Suit is natural 6+ cards of the Suit
 
 ### Optional Jacoby Transfers Responses
 
 - Responders Rebids after 2D → 2H
   |Rebid|Meaning|
   |---|---|
-  |pass|0-7 HCP 5+ Hearts|
+  |Pass|0-7 HCP 5+ Hearts|
   |2S|5 Hearts & 5 Spades, 8-9 HCP invitational|
-  |2NT|5 Hearts balanced/semi balanced invitational|
+  |2NT|5 Hearts balanced/semi-balanced invitational|
   |3C|5+ Hearts & 4+ Clubs game forcing|
   |3D|5+ Hearts & 4+ Diamonds game forcing|
   |3H|6+ Hearts invitational|
-  |3NT|balanced/semi balanced partner can pass or correct to 4H|
+  |3NT|Balanced/semi-balanced partner can pass or correct to 4H|
   |4H|6+ Hearts sign-off|
   |4NT|Quantitative inviting slam or correct to 5H|
 
 - Responders Rebids after 2H → 2S
   |Rebid|Meaning|
   |---|---|
-  |pass|0-7 HCP 5+ Spades|
-  |2NT|5 Spades balanced/semi balanced invitational|
+  |Pass|0-7 HCP 5+ Spades|
+  |2NT|5 Spades balanced/semi-balanced invitational|
   |3C|5+ Spades & 4+ Clubs game forcing|
   |3D|5+ Spades & 4+ Diamonds game forcing|
   |3H|5+ Hearts & 5+ Spades game forcing with slam interest|
   |3S|6+ Spades invitational|
-  |3NT|balanced/semi balanced partner can pass or correct to 4S|
+  |3NT|Balanced/semi-balanced partner can pass or correct to 4S|
   |4H|5+ Spades & 5+ Hearts game values|
   |4S|6+ Spades sign-off|
 
@@ -688,7 +687,7 @@ Michaels and Unusual 2NT are used after your opponent opens, to show the shape o
 - After Opener Rebids 3C:
   |Rebid|Meaning|
   |---|---|
-  |pass|minimum strength|
+  |Pass|Minimum strength|
   |3D|Strong 5+ Diamonds|
   |3H|Singleton/Void in H with slam interest Forcing|
   |3S|Singleton/Void in S with slam interest Forcing|
@@ -701,7 +700,7 @@ Michaels and Unusual 2NT are used after your opponent opens, to show the shape o
 - After Opener Rebids 3D
   |Rebid|Meaning|
   |---|---|
-  |pass|Minimum Strength|
+  |Pass|Minimum Strength|
   |3H|Singleton/Void in H with slam interest Forcing|
   |3S|Singleton/Void in S with slam interest Forcing|
   |3NT|Natural Balanced Hand|
@@ -711,7 +710,7 @@ Michaels and Unusual 2NT are used after your opponent opens, to show the shape o
 - After Opener rebids 3H
   |Rebid|Meaning|
   |---|---|
-  |3S|Singleton/Void in Spades, Forcing|
+  |3S|Singleton/Void in Spades, forcing|
   |3NT|To Play|
   |4C|5+ Clubs Natural and forcing|
   |4D|5+ Diamonds Natural and forcing|
@@ -720,8 +719,8 @@ Michaels and Unusual 2NT are used after your opponent opens, to show the shape o
 - After Opener rebids 3S
   |Rebid|Meaning|
   |---|---|
-  |3NT|To Play|
+  |3NT|To play|
   |4C|5+ Clubs Natural and forcing|
   |4D|5+ Diamonds Natural and forcing|
-  |4H|Singleton/Void in H with slam interest Forcing|
+  |4H|Singleton/Void in H with slam interest forcing|
   |4S|3 Spades, unbalanced proposes playing the 4-3 Major fit|
