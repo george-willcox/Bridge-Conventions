@@ -2,8 +2,8 @@
 <h1>Bridge Conventions</h1>
 </span>
 <p style="float: right; text-align: right;">
-Written by George Willcox <br>
-and Zeph Britten
+Written by George Willcox, <br>
+James Bunker, and Zeph Britten
 </p>
 <div style="clear: both;"></div>
 
@@ -12,50 +12,50 @@ and Zeph Britten
 <table>
 <tr><td style="vertical-align: top;border: none">
 
-- [Rules](#rules)
-  - [Rule of 12](#rule-of-12)
-  - [Rule of 20](#rule-of-20)
-- [Openers](#openers)
-  - [Suits](#suits)
-  - [Strong 1NT](#strong-1nt)
-  - [Weak 2s](#weak-2s)
-  - [Weak 3s](#weak-3s)
-  - [2NT](#2nt)
-  - [Strong 2C](#strong-2c)
-- [Constructive Bidding](#constructive-bidding)
-  - [Natural rebids](#natural-rebids)
-  - [Bidding Controls](#bidding-controls)
-  - [Stayman](#stayman)
-  - [Jacoby Transfers](#jacoby-transfers)
-  - [Minor Suit Stayman](#minor-suit-stayman)
-  - [Texas Transfers](#texas-transfers)
-- [Slam Bidding](#slam-bidding)
-  - [RKCB 1430](#rkcb-1430)
-  - [Gerber](#gerber)
+- [Rules](#-rules-)
+  - [Rule of 12](#-rule-of-12-)
+  - [Rule of 20](#-rule-of-20-)
+- [Openers](#-openers-)
+  - [Suits](#-suits-)
+  - [Strong 1NT](#-strong-1nt-)
+  - [Weak 2s](#-weak-2s-)
+  - [Weak 3s](#-weak-3s-)
+  - [2NT](#-2nt-)
+  - [Strong 2C](#-strong-2c-)
+- [Constructive Bidding](#-constructive-bidding-)
+  - [Natural rebids](#-natural-rebids-)
+  - [Bidding Controls](#-bidding-controls-)
+  - [Stayman](#-stayman-)
+  - [Jacoby Transfers](#-jacoby-transfers-)
+  - [Minor Suit Stayman](#-minor-suit-stayman-)
+  - [Texas Transfers](#-texas-transfers-)
+- [Slam Bidding](#-slam-bidding-)
+  - [RKCB 1430](#-rkcb-1430-)
+  - [Gerber](#-gerber-)
 </td>
 <td style="vertical-align: top;border: none">
 
-- [Defensive Bids](#defensive-bids)
-  - [After Opposing 1NT](#after-opposing-1nt)
-- [Doubles](#doubles)
-  - [Penalty Doubles](#penalty-doubles)
-  - [Takeout Doubles](#takeout-doubles)
-  - [Responsive Doubles](#responsive-doubles)
-- [1NT Escapes](#1nt-escapes)
-- [Standard Leads](#standard-leads)
-- [Other Optional Conventions](#other-optional-conventions)
-  - [Puppet Stayman](#puppet-stayman)
-  - [Bergen and Bravos](#bergen-and-bravos)
-    - [Bergen Raises](#bergen-raises)
-    - [Bravos](#bravos)
-      - [Jacoby 2NT](#jacoby-2nt)
-      - [Ambiguous Splinters](#ambiguous-splinters)
-      - [Key Card Swiss](#key-card-swiss)
-  - [Other Defensive Bids](#other-defensive-bids)
-    - [Michaels Cue Bids](#michaels-cue-bids)
-    - [Unusual 2NT](#unusual-2nt)
-  - [Optional Jacoby Transfers Responses](#optional-jacoby-transfers-responses)
-  - [Optional Minor Suit Responses](#optional-minor-suit-stayman-responses)
+- [Defensive Bids](#-defensive-bids-)
+  - [After Opposing 1NT](#-after-opposing-1nt-)
+- [Doubles](#-doubles-)
+  - [Penalty Doubles](#-penalty-doubles-)
+  - [Takeout Doubles](#-takeout-doubles-)
+  - [Responsive Doubles](#-responsive-doubles-)
+- [1NT Escapes](#-1nt-escapes-)
+- [Standard Leads](#-standard-leads-)
+- [Other Optional Conventions](#-other-optional-conventions-)
+  - [Puppet Stayman](#-puppet-stayman-)
+  - [Bergen and Bravos](#-bergen-and-bravos-)
+    - [Bergen Raises](#-bergen-raises-)
+    - [Bravos](#-bravos-)
+      - [Jacoby 2NT](#-jacoby-2nt-)
+      - [Ambiguous Splinters](#-ambiguous-splinters-)
+      - [Key Card Swiss](#-key-card-swiss-)
+  - [Other Defensive Bids](#-other-defensive-bids-)
+    - [Michaels Cue Bids](#-michaels-cue-bids-)
+    - [Unusual 2NT](#-unusual-2nt-)
+  - [Optional Jacoby Transfers Responses](#-optional-jacoby-transfers-responses-)
+  - [Optional Minor Suit Responses](#-optional-minor-suit-stayman-responses-)
 </td>
 </tr>
 </table>
@@ -106,15 +106,15 @@ and Zeph Britten
   |Response|Meaning|
   |---|---|
   |Pass|0-7 HCP. No 5M or 6m|
-  |2C|Have 4 card Major [Stayman](#stayman)|
-  |2D/2H|5+ Hearts or Spades [Jacoby Transfer](#jacoby-transfers)|
-  |2S|5-4 shape in Minors [Minor Suit Stayman](#minor-suit-stayman)|
+  |2C|Have 4 card Major [Stayman](#-stayman-)|
+  |2D/2H|5+ Hearts or Spades [Jacoby Transfer](#-jacoby-transfers-)|
+  |2S|5-4 shape in Minors [Minor Suit Stayman](#-minor-suit-stayman-)|
   |2NT|8-9 HCP denies 4 of a Major unless 4-3-3-3|
   |3C|6+ Clubs, 7-8 HCP|
   |3D|6+ Diamonds, 7-8 HCP|
   |3NT|10-13HCP denies 4 of a Major unless 4-3-3-3|
-  |4C|[Gerber](#gerber)|
-  |4D/4H|[Texas Transfer](#texas-transfers)|
+  |4C|[Gerber](#-gerber-)|
+  |4D/4H|[Texas Transfer](#-texas-transfers-)|
   |4NT|17-18 HCP invites 6NT|
 
 <div style="page-break-after: always;"></div>
@@ -174,7 +174,7 @@ and Zeph Britten
     |New Suit|17+ HCP 5+ card Suit|
   
 - Responders Rebids
-  - Opener bids 2NT: See [Strong 1NT](#strong-1nt)
+  - Opener bids 2NT: See [Strong 1NT](#-strong-1nt-)
   - Opener bids a  Suit:
     - Single Raise: 3+ cards slam interest
     - Double Raise: 3+ cards sign-off
@@ -183,7 +183,7 @@ and Zeph Britten
 
 - 20-21 HCP Balanced
 - Can hold a 5 card Major
-- See [Strong 1NT](#strong-1nt) responses, just one level higher
+- See [Strong 1NT](#-strong-1nt-) responses, just one level higher
 - For 18-19 HCP open 1 of a Suit then rebid 2NT
 
 ## Constructive Bidding
@@ -196,7 +196,7 @@ and Zeph Britten
 
 ### Stayman
 
-- After [Strong 1NT](#strong-1nt) bid
+- After [Strong 1NT](#-strong-1nt-) bid
 - Bid 2C with 4 of a Major
 - Openers rebids:
     |Response|Meaning|
@@ -244,7 +244,7 @@ and Zeph Britten
   |---|---|
   |4D|6+ Hearts & 10-15 HCP|
   |4H|6+ Spades & 10-15 HCP|
-- Opener must Complete Transfer in the same way as [Jacoby Transfers](#jacoby-transfers)
+- Opener must Complete Transfer in the same way as [Jacoby Transfers](#-jacoby-transfers-)
 
 <div style="page-break-after: always;"></div>
 
@@ -311,7 +311,7 @@ and Zeph Britten
 
 ### After Opposing 1NT
 
-- Used after opponents open a [Strong 1NT](#strong-1nt)
+- Used after opponents open a [Strong 1NT](#-strong-1nt-)
 - Shows all 1 suited and 2 suited hands at the 2 level
 - Require 8+ HCP
   |Overcall|Meaning|
@@ -434,7 +434,7 @@ H is any honour
 
 ### Puppet Stayman
 
-An alternative to Stayman to use after a [2NT](#2nt) opening.
+An alternative to Stayman to use after a [2NT](#-2nt-) opening.
 
 - After 2NT responder Bids 3C to show either a 4 or 5 card major and 3+ HCP
   |Response to 3C|Meaning|
@@ -463,11 +463,11 @@ These are responses to show 4+ card support, choose either Bergen or Bravos, up 
   |Responders Bid|Meaning|
   |---|---|
   |2T|3 cards in Suit, 6+ HCP|
-  |2NT|12+ HCP Balanced [Jacoby 2NT](#jacoby-2nt)|
+  |2NT|12+ HCP Balanced [Jacoby 2NT](#-jacoby-2nt-)|
   |3C|9-11 HCP 4+ cards in Trump Suit|
   |3D|5-8 HCP 4+ cards in Trump Suit|
   |3T|0-4 HCP 4+ cards in Trump Suit|
-  |3O|12+ HCP Singleton/Void [Ambiguous Splinters](#ambiguous-splinters)|
+  |3O|12+ HCP Singleton/Void [Ambiguous Splinters](#-ambiguous-splinters-)|
 
 <div style="page-break-after: always;"></div>
 
@@ -477,14 +477,14 @@ These are responses to show 4+ card support, choose either Bergen or Bravos, up 
   |Responders Bid|Meaning|
   |---|---|
   |2T|3 card support 6-9 HCP|
-  |2NT|16+ HCP Balanced [Jacoby 2NT](#jacoby-2nt)|
+  |2NT|16+ HCP Balanced [Jacoby 2NT](#-jacoby-2nt-)|
   |3C|3 way relay showing either: 6-10 HCP, 12-15 HCP & Void, 16+ HCP & Void|
   |3D|2 way relay showing either: ~11 HCP balanced or ~11 HCP with 3 controls and a singleton/void |
   |3T|0-5 HCP|
-  |3O|12+ HCP Singleton [Ambiguous Splinters](#ambiguous-splinters)|
+  |3O|12+ HCP Singleton [Ambiguous Splinters](#-ambiguous-splinters-)|
   |3NT|Balanced 3 card raise|
-  |4C/4D|12-15 HCP Balanced [Key card Swiss](#key-card-swiss)|
-  |4NT|[RKCB](#rkcb-1430)|
+  |4C/4D|12-15 HCP Balanced [Key card Swiss](#-key-card-swiss-)|
+  |4NT|[RKCB](#-rkcb-1430-)|
 
 - 3 way Relay; Opener Must rebid 3D
   |Response|Meaning|
@@ -516,7 +516,7 @@ These are responses to show 4+ card support, choose either Bergen or Bravos, up 
   |4C/4D|5+ cards of bid Suit|
   |4H|If H are trumps its a sign-off, if S are trumps shows 5+ hearts|
   |4S|Spades sign-off|
-  |4NT|[RKCB](#rkcb-1430)|
+  |4NT|[RKCB](#-rkcb-1430-)|
 - Priority of openers Rebid:
   - Show a 5 Card side Suit
   - Show a Singleton/Void
