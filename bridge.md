@@ -724,3 +724,9 @@ Michaels and Unusual 2NT are used after your opponent opens, to show the shape o
   |4D|5+ Diamonds Natural and forcing|
   |4H|Singleton/Void in H with slam interest forcing|
   |4S|3 Spades, unbalanced proposes playing the 4-3 Major fit|
+
+
+<p style="text-align: right; font-size: 12px">
+Please send corrections or questions to </br>
+gwpw2@cam.ac.uk
+</p>
